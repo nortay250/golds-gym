@@ -1,6 +1,6 @@
 # Fitness App
 
-- React JS, TypeScript
+- React JS
 - Styling: Material UI v5
 - Rest API: Rapid API Exercise DB and Rapid API Youtube Search
 
